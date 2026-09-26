@@ -31,3 +31,4 @@
 /Users/bennbatuu/Desktop/ASP/FlowForge/src/FlowForge.Api/obj/Debug/net10.0/FlowForge.Api.pdb
 /Users/bennbatuu/Desktop/ASP/FlowForge/src/FlowForge.Api/obj/Debug/net10.0/FlowForge.Api.genruntimeconfig.cache
 /Users/bennbatuu/Desktop/ASP/FlowForge/src/FlowForge.Api/obj/Debug/net10.0/ref/FlowForge.Api.dll
+/Users/bennbatuu/Desktop/ASP/FlowForge/src/FlowForge.Api/obj/Debug/net10.0/FlowForge.Api.sourcelink.json
